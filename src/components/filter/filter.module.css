@@ -1,0 +1,25 @@
+.filter{
+    border-radius: 3px;
+    padding: 2px 10px;
+    box-shadow: 0 1px 5px rgb(196, 196, 206);
+    margin: 17px 10px 0 20px;
+    height: 50px;
+    width: 270px;
+}
+.filterP{
+    font-size: 10px;
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+.filterInput{
+    width: 260px;
+    padding: 5px 3px;
+    border-radius: 3px;
+    border: 1px solid rgb(196, 196, 206);
+    outline: none;
+    font-size: 12px;
+}
+.filterInput:focus,
+.filterInput:active {
+    border-color: rgb(56, 72, 165);
+}

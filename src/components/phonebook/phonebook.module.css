@@ -1,0 +1,38 @@
+.form{
+    width: 270px;
+    height: 140px;
+    border-radius: 3px;
+    padding: 4px 10px;
+    box-shadow: 0 1px 5px rgb(196, 196, 206);
+    margin-left: 20px;
+}
+.span{
+    display: block;
+    font-size: 12px;
+    padding-top: 4px;
+}
+.input{
+    width: 260px;
+    padding: 5px 3px;
+    border-radius: 3px;
+    border: 1px solid rgb(196, 196, 206);
+    outline: none;
+    font-size: 12px;
+}
+.input:focus,
+.input:active {
+    border-color: rgb(56, 72, 165);
+}
+
+.addBtn{
+    width: 267px;
+    height: 30px;
+    padding: 5px;
+    margin-top: 13px;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    background-color: rgb(56, 72, 165);
+    border: none;
+    border-radius: 3px;
+}

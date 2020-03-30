@@ -1,0 +1,14 @@
+.alert{
+    width: 140px;
+    border-radius: 3px;
+    background-color: tomato;
+    padding: 10px;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+
+.alertP{
+    font-size: 12px;
+    color: white;
+}

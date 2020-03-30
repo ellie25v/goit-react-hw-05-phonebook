@@ -1,0 +1,31 @@
+.li{
+    list-style: none;
+    display: flex;
+    width: 100%;
+    border-radius: 3px;
+    padding: 0 10px;
+    box-shadow: 0 1px 5px rgb(196, 196, 206);
+    margin-left: 20px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    height: 38px;
+}
+.p{
+    font-size: 10px;
+    text-transform: capitalize;
+    width: 110px;
+    margin: auto 0;
+}
+.delete{
+    height: 23px;
+    width: 23px;
+    background-color: tomato;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    border: none;
+    border-radius: 3px;
+    margin-top: 8px;
+    
+}
